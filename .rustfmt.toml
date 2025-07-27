@@ -1,0 +1,16 @@
+edition = "2021"
+tab_spaces = 2
+newline_style = "Unix"
+max_width = 80
+reorder_imports = true
+
+# Unstable
+#hex_literal_case = "Lower"
+#format_macro_matchers = true
+#format_macro_bodies = true
+#imports_granularity = "Module"
+#group_imports = "StdExternalCrate"
+#merge_imports = true
+#reorder_impl_items = true
+#overflow_delimited_expr = true
+#force_multiline_blocks = true

@@ -1,0 +1,37 @@
+/Problems
+
+# RUST #
+########
+dist/
+debug/
+target/
+cmake-build-*
+build/
+**/*.rs.bk
+
+# IDE related #
+###############
+.fleet/
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+\#*\#
+*~
+[._]*.sw[a-p]
+[._]sw[a-p]
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+*~
+.*.swp
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
